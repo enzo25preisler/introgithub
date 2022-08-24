@@ -1,3 +1,4 @@
 Hello world !!!
 São Bento do Sul é um lugar muito bonito.
 Tambem é um lugar bom para se visitar.
+linha nova no texto.
